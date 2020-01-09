@@ -1,0 +1,10 @@
+{
+    "name": "laravel-vpn-admin/plugin-openvpn",
+    "authors": [
+        {
+            "name": "Paul Rock",
+            "email": "paul@drteam.rocks"
+        }
+    ],
+    "require": {}
+}
